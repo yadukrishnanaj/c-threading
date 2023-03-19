@@ -1,1 +1,1 @@
-# c-threading
+# c++-threading
